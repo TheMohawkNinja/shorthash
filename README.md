@@ -5,3 +5,5 @@ shorthash	108
 bash		138
 github		179
 linux		186
+
+compile with "g++ shorthash.cpp -o shorthash"
